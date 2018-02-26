@@ -1,6 +1,6 @@
-Router WR841n_v9
+<b>Router WR841n_v9</b>b>
 
-v9 only
+<b>v9 only</b>b>
 
 flash 16MB only
 
@@ -15,11 +15,11 @@ W25Q128FWSIG is used for modification
 7.Disconnect wan cable
 8.Get to the 192.168.1.1 in browser. If there no connection - write down manualy in you adapter ipv4 settings:
 
-192.168.1.X
-255.255.255.0
-192.168.1.1
-
-192.168.1.1
+192.168.1.X<p>
+255.255.255.0<p>
+192.168.1.1<p>
+<p>
+192.168.1.1<p>
 9.Navigate to 192.168.1.1/art.html. Select mtd4 and burn
 10.Navigate to 192.168.1.1 and select one of the builds from "bin" folder. Burn - connect - Enjoy.
 
