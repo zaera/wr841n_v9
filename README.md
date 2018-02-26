@@ -1,4 +1,6 @@
-Router v9 only
+Router WR841n_v9
+
+v9 only
 
 flash 16MB only
 
