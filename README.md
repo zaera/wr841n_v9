@@ -29,3 +29,5 @@ W25Q128FWSIG is used for modification<p>
 "openwrt-ar71xx-generic-tl-wr841n-v9-squashfs-factory-chaos_calmer.bin"<p>
 Model	TP-Link TL-WR841N/ND v9<p>
 Firmware Version	OpenWrt Chaos Calmer 15.05.1 r49617 / LuCI for-15.05 branch (git-18.021.57137-5fa2132)<p>
+    
+zaera.alex@gmail.com - for more info
