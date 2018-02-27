@@ -21,7 +21,7 @@ W25Q128FWSIG is used for modification<p>
 <p>
 192.168.1.1<p>
 9.Navigate to 192.168.1.1/art.html. Select mtd4 and burn<p>
-10.Navigate to 192.168.1.1 and select one of the builds from "bin" folder. Burn - connect - Enjoy.<p>
+10.Navigate to 192.168.1.1 and select one of the builds from "bin" folder. Burn - restart - Enjoy.<p>
 <p>
 "u-boot_mod__tp-link_tl-wr841n_v9__20180204__git_master-4fbf43bf.bin"<p>
 16 MB emptypepe2k u-boot_mod<p>
